@@ -19,7 +19,7 @@ clean:
 	rm *.o -f
 
 run_client:
-	./client $(name)
+	./client
 
 run_server:
 	./server
