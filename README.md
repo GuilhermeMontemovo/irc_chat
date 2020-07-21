@@ -1,5 +1,5 @@
-# server_client_chat_v1
-A simple server client chat
+# server_client_irc
+server client chat irc
 
 # OS
 Ubuntu 18.04.4 LTS
