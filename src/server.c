@@ -48,6 +48,7 @@ int send_ping(char *message, int current){
 
         message: string to check equals "/ping"
         current: client id
+	test
 
     */
     if(!strncmp("/ping", message, 5)){
